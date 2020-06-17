@@ -1,0 +1,24 @@
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <title>JavaScript Value Types - Vue</title>
+</head>
+<body>
+  <div id="app">
+    <h1>{{ title }}</h1>
+    <value-types-table></value-types-table>
+    <p>There are {{ uniqueValuesSize }} unique value types: {{ uniqueValuesListed }}</p>
+    <h2>Primitive Values</h2>
+    <p>These are values that are innately immutable. Null is considered a primitive value despite (accidentally) being of the 'object' value type.</p>
+    <ul>
+      <li v-for="value in primitiveValues">{{ value }}</li>
+    </ul>
+    <h2>Non-Primitive Values</h2>
+    <ul>
+      <li v-for="value in nonPrimitiveValues">{{ value }}</li>
+    </ul>
+    <h2>Possible Value Counts</h2>
+    <value-type-counts-table></value-type-counts-table>
+  </div>
+</body>
+</html>
