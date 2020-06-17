@@ -1,0 +1,21 @@
+body {
+  padding:1rem;
+}
+table {
+  border-spacing:0;
+  border:0.1rem #5e5e5e solid;
+}
+th, td {
+  padding:0.8rem 0.5rem;
+  overflow-wrap: break-all;
+}
+tr th {
+  background:#5e5e5e;
+  color:#fff;
+}
+tr:nth-child(even) {
+  background:#efefef;
+}
+.mismatched td {
+  background:#f0b5b5;
+}
