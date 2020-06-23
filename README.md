@@ -3,9 +3,19 @@ Dynamically-generated documentation for JavaScript value types in Vue, React, an
 
 ## Vue
 
-CodePen Demo: https://codepen.io/quadbaup/pen/oNgKJjw
-
 Uses Vue 2.6.11.
+
+### Local Demo
+
+1. `cd` to `/JavaScript-Value-Types/vue`
+2. Ensure dependencies are installed with `npm i`
+3. `npm start`
+4. Visit `localhost:3000` in a web browser
+
+### CodePen Demo
+
+https://codepen.io/quadbaup/pen/oNgKJjw
+
 
 ---
 
