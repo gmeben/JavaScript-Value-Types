@@ -185,3 +185,5 @@ const app = new Vue({
     }
   }
 });
+
+const normalize = require('normalize.css')
