@@ -1,0 +1,19 @@
+{
+  "name": "javascript-value-types-vue",
+  "version": "1.0.0",
+  "description": "Dynamically-generated documentation for JavaScript value types in Vue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmeben/JavaScript-Value-Types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmeben/JavaScript-Value-Types/issues"
+  },
+  "homepage": "https://github.com/gmeben/JavaScript-Value-Types#readme"
+}
