@@ -1,13 +1,24 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import-normalize;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  padding:1rem;
+  font-family:sans-serif;
+}
+table {
+  border-spacing:0;
+  border:0.1rem #5e5e5e solid;
+}
+th, td {
+  padding:0.8rem 0.5rem;
+  overflow-wrap: break-all;
+}
+tr th {
+  background:#5e5e5e;
+  color:#fff;
+}
+tr:nth-child(even) {
+  background:#efefef;
+}
+.mismatched td {
+  background:#f0b5b5;
 }
