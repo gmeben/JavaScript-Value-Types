@@ -38,6 +38,8 @@ https://codepen.io/quadbaup/pen/vYLydLd
 
 ## Angular
 
+Uses version Angular 10.0.0.
+
 ### Local Demo
 
 1. Clone this repository
