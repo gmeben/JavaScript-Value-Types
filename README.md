@@ -7,10 +7,11 @@ Uses Vue 2.6.11.
 
 ### Local Demo
 
-1. In a command line, `cd` to `/JavaScript-Value-Types/vue`
-2. Ensure dependencies are installed with `npm i`
-3. `npm start`
-4. Visit `localhost:3000` in a web browser
+1. Clone this repository
+2. In a command line, `cd` to `/JavaScript-Value-Types/vue`
+3. Ensure dependencies are installed with `npm i`
+4. `npm start`
+5. Visit `localhost:3000` in a web browser
 
 ### CodePen Demo
 
@@ -20,14 +21,14 @@ https://codepen.io/quadbaup/pen/oNgKJjw
 
 ## React
 
-Requires Babel to compile. Uses React 16.13.1 and React DOM 16.13.1.
+Requires Babel to compile. Uses React 16.13.1, ReactDOM 16.13.1, and react-scripts 3.4.1.
 
 ### Local Demo
 
-1. In a command line, `cd` to `/JavaScript-Value-Types/react`
-2. Ensure dependencies are installed with `npm i`
-3. `npm start`
-4. The computer's default web browser should automatically launch `localhost:3000`
+1. Clone this repository
+2. In a command line, `cd` to `/JavaScript-Value-Types/react`
+3. Ensure dependencies are installed with `npm i`
+4. `npm start` and the computer's default web browser should automatically launch `localhost:3000`
 
 ### CodePen Demo
 
