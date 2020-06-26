@@ -38,4 +38,9 @@ https://codepen.io/quadbaup/pen/vYLydLd
 
 ## Angular
 
-Coming Soon
+### Local Demo
+
+1. Clone this repository
+2. In a command line, `cd` to `/JavaScript-Value-Types/angular`
+3. Ensure the latest version of Angular is installed with `npm install -g @angular/cli`
+4. `ng serve--open` and the computer's default web browser should automatically launch `localhost:4200`
