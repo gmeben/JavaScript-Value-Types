@@ -38,7 +38,7 @@ https://codepen.io/quadbaup/pen/vYLydLd
 
 ## Angular
 
-Uses version Angular 10.0.0.
+Uses Angular 10.0.0.
 
 ### Local Demo
 
