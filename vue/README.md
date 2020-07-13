@@ -1,5 +1,5 @@
 # JavaScript-Value-Types
-Dynamically-generated documentation for JavaScript value types. Comes in Vue, React, and Angular versions
+Dynamically-generated documentation for JavaScript value types. 
 
 ## Vue
 
