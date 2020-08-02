@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/gmeben/JavaScript-Value-Types/issues"
   },
-  "homepage": "https://github.com/gmeben/JavaScript-Value-Types#readme",
+  "homepage": "https://github.com/gmeben/JavaScript-Value-Types/tree/master/vue#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nocache": "^2.1.0"
