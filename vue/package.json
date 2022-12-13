@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/gmeben/JavaScript-Value-Types/tree/master/vue#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nocache": "^2.1.0"
   }
 }
